@@ -3,8 +3,8 @@
 
 local RunService = game:GetService("RunService")
 
-local Vars = require(script.Vars)
-local Registry = require(script.Registry)
+local Vars = require(script.Parent.Vars)
+local Registry = require(script.Parent.Registry)
 
 local EZ = {}
 
